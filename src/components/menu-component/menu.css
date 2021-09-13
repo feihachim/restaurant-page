@@ -1,0 +1,31 @@
+img {
+  width: 640px;
+  height: auto;
+}
+
+.menu-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.single-item {
+  border-color: darkkhaki;
+  background-color: cornsilk;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 5%;
+}
+
+.menu-item {
+  border-color: darkslateblue;
+  background-color: greenyellow;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  border-radius: 5%;
+}

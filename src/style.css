@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Dancing Script", cursive;
+  src: url("DancingScript-Bold.ttf") format("ttf"),
+    url("DancingScript-Medium.ttf") format("ttf"),
+    url("DancingScript-Regular.ttf") format("ttf"),
+    url("DancingScript-SemiBold.ttf") format("ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  background-color: cadetblue;
+  font-family: "Dancing Script", cursive;
+}
+
+div {
+  border: 1px solid;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+button {
+  width: 150px;
+  height: 75px;
+  font-size: 40px;
+}
