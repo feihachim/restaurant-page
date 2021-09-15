@@ -1,5 +1,5 @@
-import { items } from './home-data';
-import './home.css';
+import { items } from './assets/data/home-data';
+import './assets/css/home.css';
 
 function createHeadingOne(str) {
     const headingOne = document.createElement('h1');

@@ -1,9 +1,9 @@
 @font-face {
   font-family: "Dancing Script", cursive;
-  src: url("DancingScript-Bold.ttf") format("ttf"),
-    url("DancingScript-Medium.ttf") format("ttf"),
-    url("DancingScript-Regular.ttf") format("ttf"),
-    url("DancingScript-SemiBold.ttf") format("ttf");
+  src: url("../fonts/DancingScript-Bold.ttf") format("ttf"),
+    url("../fonts/DancingScript-Medium.ttf") format("ttf"),
+    url("../fonts/DancingScript-Regular.ttf") format("ttf"),
+    url("../fonts/DancingScript-SemiBold.ttf") format("ttf");
 }
 
 * {

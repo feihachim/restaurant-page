@@ -1,4 +1,4 @@
-import logo from './chef-1417239_1280.png';
+import logo from '../images/chef-1417239_1280.png';
 
 export const items =
 {

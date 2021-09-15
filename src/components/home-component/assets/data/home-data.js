@@ -1,4 +1,4 @@
-import building from './buildings-1836478_1280.jpg';
+import building from '../images/buildings-1836478_1280.jpg';
 
 export const items =
 {

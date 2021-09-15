@@ -1,5 +1,5 @@
-import './menu.css';
-import { items } from './menu-data';
+import './assets/css/menu.css';
+import { items } from './assets/data/menu-data';
 
 function createDivClass(name) {
     const divElement = document.createElement('div');

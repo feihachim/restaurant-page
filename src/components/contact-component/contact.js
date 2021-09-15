@@ -1,5 +1,5 @@
-import { items } from './contact-data';
-import './contact.css';
+import { items } from './assets/data/contact-data';
+import './assets/css/contact.css';
 
 function createDivClass(name) {
     const divElement = document.createElement('div');

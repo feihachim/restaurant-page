@@ -1,11 +1,11 @@
-import cupcakes from './cupcakes-690040_1280.jpg';
-import redWine from './red-wine-2443699_1280.jpg';
-import roastPork from './roast-pork-6599690_1280.jpg';
-import salad from './salad-5904093_1280.jpg';
-import vegetableJuice from './vegetable-juices-1725835_1280.jpg';
-import fruits from './fruit-4551315_1280.jpg';
-import salmonTeriyaki from './food-712665_1280.jpg';
-import sushi from './food-3581341_1280.jpg';
+import cupcakes from '../images/cupcakes-690040_1280.jpg';
+import redWine from '../images/red-wine-2443699_1280.jpg';
+import roastPork from '../images/roast-pork-6599690_1280.jpg';
+import salad from '../images/salad-5904093_1280.jpg';
+import vegetableJuice from '../images/vegetable-juices-1725835_1280.jpg';
+import fruits from '../images/fruit-4551315_1280.jpg';
+import salmonTeriyaki from '../images/food-712665_1280.jpg';
+import sushi from '../images/food-3581341_1280.jpg';
 
 export const items =
 {
