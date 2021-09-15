@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"webpack"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,6 @@
   "devDependencies": {
     "css-loader": "^6.2.0",
     "html-webpack-plugin": "^5.3.2",
-    "json5": "^2.2.0",
     "style-loader": "^3.2.1",
     "webpack": "^5.52.1",
     "webpack-cli": "^4.8.0"
